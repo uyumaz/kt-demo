@@ -67,6 +67,18 @@ AI maintains full project context across all phases - no information loss.
 
 ---
 
+## Demo Commands
+
+| Time | Phase | Command |
+|------|-------|---------|
+| 0:05 | **Product Brief** | `/bmad-bmm-create-product-brief` |
+| 0:15 | **PRD** | `/bmad-bmm-create-prd` |
+| 0:25 | **Architecture** | `/bmad-bmm-create-architecture` |
+| 0:35 | **Stories** | `/bmad-bmm-create-epics-and-stories` |
+| 0:40 | **Implement** | `/bmad-bmm-dev-story` |
+
+---
+
 ## Let's Build Something!
 
 **What should we create?**
